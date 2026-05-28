@@ -1,3 +1,3 @@
 # Inconsolata-EX
-Inconsolata font with Arabic glyphs and nerd fonts glyphs added.
+Inconsolata font with Arabic & nerd fonts glyphs.
 Many thanks to [MihailJP](https://github.com/MihailJP/Inconsolata-LGC/releases).
